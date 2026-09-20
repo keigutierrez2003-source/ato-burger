@@ -11,3 +11,6 @@ Desktop.ini
 .vscode/
 .idea/
 *.swp
+
+.vercel
+.env*
